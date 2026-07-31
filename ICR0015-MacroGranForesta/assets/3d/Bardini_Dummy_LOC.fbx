@@ -9,10 +9,10 @@ FBXHeaderExtension:  {
 		Year: 2026
 		Month: 7
 		Day: 31
-		Hour: 14
-		Minute: 41
-		Second: 17
-		Millisecond: 996
+		Hour: 15
+		Minute: 13
+		Second: 24
+		Millisecond: 805
 	}
 	Creator: "FBX SDK/FBX Plugins version 2020.3.4"
 	OtherFlags:  {
@@ -76,7 +76,7 @@ GlobalSettings:  {
 
 Documents:  {
 	Count: 1
-	Document: 2430438762288, "Scene", "Scene" {
+	Document: 2434433751376, "Scene", "Scene" {
 		Properties70:  {
 			P: "SourceObject", "object", "", ""
 			P: "ActiveAnimStackName", "KString", "", "", ""
@@ -221,7 +221,7 @@ Definitions:  {
 ;------------------------------------------------------------------
 
 Objects:  {
-	Geometry: 2423142755056, "Geometry::Scene", "Mesh" {
+	Geometry: 2435411678432, "Geometry::Scene", "Mesh" {
 		Vertices: *24 {
 			a: -50,-50,50,50,-50,50,-50,50,50,50,50,50,-50,50,-50,50,50,-50,-50,-50,-50,50,-50,-50
 		} 
@@ -349,9 +349,9 @@ Objects:  {
 			P: "InheritType", "enum", "", "",1
 			P: "ScalingMax", "Vector3D", "Vector", "",0,0,0
 			P: "DefaultAttributeIndex", "int", "Integer", "",0
-			P: "Lcl Translation", "Lcl Translation", "", "A",3651.72996520996,205.299997329712,-18611.9903564453
+			P: "Lcl Translation", "Lcl Translation", "", "A",3651.72996520996,205.299997329712,-19564.7506713867
 			P: "Lcl Rotation", "Lcl Rotation", "", "A",-9.33466708374908e-06,0,0
-			P: "Lcl Scaling", "Lcl Scaling", "", "A",56.8740386962891,1.40611529350281,79.8499908447266
+			P: "Lcl Scaling", "Lcl Scaling", "", "A",56.8740386962891,1.40611529350281,60.7977828979492
 		}
 		Shading: W
 		Culling: "CullingOff"
@@ -371,7 +371,7 @@ Objects:  {
 		Shading: W
 		Culling: "CullingOff"
 	}
-	Model: 2423201103776, "Model::Box_17_Pool_Furniture_011_Patio_table_17_Pool_Furniture_011_f8d3fa", "Mesh" {
+	Model: 2423201101776, "Model::Box_17_Pool_Furniture_011_Patio_table_17_Pool_Furniture_011_f8d3fa", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "RotationOrder", "enum", "", "",4
@@ -386,7 +386,7 @@ Objects:  {
 		Shading: W
 		Culling: "CullingOff"
 	}
-	Model: 2423201101776, "Model::Box_B1010___Columnas_Rectangulares_Concreto_B1010___0_40x0__ff43a4", "Mesh" {
+	Model: 2423201103776, "Model::Box_B1010___Columnas_Rectangulares_Concreto_B1010___0_40x0__ff43a4", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "RotationOrder", "enum", "", "",4
@@ -409,9 +409,9 @@ Objects:  {
 			P: "InheritType", "enum", "", "",1
 			P: "ScalingMax", "Vector3D", "Vector", "",0,0,0
 			P: "DefaultAttributeIndex", "int", "Integer", "",0
-			P: "Lcl Translation", "Lcl Translation", "", "A",3690.40756225586,-266.280007362366,-13364.9765014648
+			P: "Lcl Translation", "Lcl Translation", "", "A",3690.40756225586,-312.639999389648,-13364.9765014648
 			P: "Lcl Rotation", "Lcl Rotation", "", "A",-0,-89.9999847412109,0
-			P: "Lcl Scaling", "Lcl Scaling", "", "A",168.009735107422,9.67401027679443,48.9000053405762
+			P: "Lcl Scaling", "Lcl Scaling", "", "A",168.009735107422,8.74627304077148,48.9000053405762
 		}
 		Shading: W
 		Culling: "CullingOff"
@@ -431,7 +431,7 @@ Objects:  {
 		Shading: W
 		Culling: "CullingOff"
 	}
-	Model: 2433273924880, "Model::Box_B1010___Columnas_Rectangulares_Concreto_B1010___0_40x0__ff43a42__2_", "Mesh" {
+	Model: 2433285120096, "Model::Box_B1010___Columnas_Rectangulares_Concreto_B1010___0_40x0__ff43a42__2_", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "RotationOrder", "enum", "", "",4
@@ -446,7 +446,7 @@ Objects:  {
 		Shading: W
 		Culling: "CullingOff"
 	}
-	Model: 2433273918880, "Model::Box_Basic_Roof_PREFINISHED_METAL_SANDWICH_PANEL_ROOF___53mm_8154522", "Mesh" {
+	Model: 2433285124096, "Model::Box_Basic_Roof_PREFINISHED_METAL_SANDWICH_PANEL_ROOF___53mm_8154522", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "RotationOrder", "enum", "", "",4
@@ -460,7 +460,7 @@ Objects:  {
 		Shading: W
 		Culling: "CullingOff"
 	}
-	Model: 2433273920880, "Model::Box_Basic_Wall_M_PA__BLANCO_ALMENDRA__5549101_", "Mesh" {
+	Model: 2433285132096, "Model::Box_Basic_Wall_M_PA__BLANCO_ALMENDRA__5549101_", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "RotationOrder", "enum", "", "",4
@@ -475,7 +475,7 @@ Objects:  {
 		Shading: W
 		Culling: "CullingOff"
 	}
-	Model: 2433273922880, "Model::Box_Basic_Wall_M_PA__BLANCO_ALMENDRA__5581981_", "Mesh" {
+	Model: 2433285134096, "Model::Box_Basic_Wall_M_PA__BLANCO_ALMENDRA__5581981_", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "RotationOrder", "enum", "", "",4
@@ -490,7 +490,7 @@ Objects:  {
 		Shading: W
 		Culling: "CullingOff"
 	}
-	Model: 2433273926880, "Model::Box_Basic_Wall_M_PA__CHANTILLI_TX__5538511_", "Mesh" {
+	Model: 2433285122096, "Model::Box_Basic_Wall_M_PA__CHANTILLI_TX__5538511_", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "RotationOrder", "enum", "", "",4
@@ -505,7 +505,7 @@ Objects:  {
 		Shading: W
 		Culling: "CullingOff"
 	}
-	Model: 2433273928880, "Model::Box_Basic_Wall_M1___0_15_m_Concreto__4992067_", "Mesh" {
+	Model: 2433285126096, "Model::Box_Basic_Wall_M1___0_15_m_Concreto__4992067_", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "RotationOrder", "enum", "", "",4
@@ -519,7 +519,7 @@ Objects:  {
 		Shading: W
 		Culling: "CullingOff"
 	}
-	Model: 2433273930880, "Model::Box_Basic_Wall_M1___0_15_m_Concreto__4992067__001", "Mesh" {
+	Model: 2433285128096, "Model::Box_Basic_Wall_M1___0_15_m_Concreto__4992067__001", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "RotationOrder", "enum", "", "",4
@@ -533,7 +533,7 @@ Objects:  {
 		Shading: W
 		Culling: "CullingOff"
 	}
-	Model: 2433273916880, "Model::Box_Basic_Wall_M1___0_15_m_Concreto__4992067__002", "Mesh" {
+	Model: 2433285142096, "Model::Box_Basic_Wall_M1___0_15_m_Concreto__4992067__002", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "RotationOrder", "enum", "", "",4
@@ -547,7 +547,7 @@ Objects:  {
 		Shading: W
 		Culling: "CullingOff"
 	}
-	Model: 2433273940880, "Model::Box_Basic_Wall_M1___0_15_m_Concreto__4992067__003", "Mesh" {
+	Model: 2433285140096, "Model::Box_Basic_Wall_M1___0_15_m_Concreto__4992067__003", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "RotationOrder", "enum", "", "",4
@@ -560,7 +560,7 @@ Objects:  {
 		Shading: W
 		Culling: "CullingOff"
 	}
-	Model: 2433273946880, "Model::Box_Basic_Wall_M1___0_15_m_Concreto__4992067__004", "Mesh" {
+	Model: 2433285136096, "Model::Box_Basic_Wall_M1___0_15_m_Concreto__4992067__004", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "RotationOrder", "enum", "", "",4
@@ -574,7 +574,7 @@ Objects:  {
 		Shading: W
 		Culling: "CullingOff"
 	}
-	Model: 2433273936880, "Model::Box_Basic_Wall_M1___0_15_m_Concreto__4992067__005", "Mesh" {
+	Model: 2433285144096, "Model::Box_Basic_Wall_M1___0_15_m_Concreto__4992067__005", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "RotationOrder", "enum", "", "",4
@@ -588,7 +588,7 @@ Objects:  {
 		Shading: W
 		Culling: "CullingOff"
 	}
-	Material: 2431992090528, "Material::DefaultHDMaterial", "" {
+	Material: 2433284979952, "Material::DefaultHDMaterial", "" {
 		Version: 102
 		ShadingModel: "lambert"
 		MultiLayer: 0
@@ -619,10 +619,10 @@ Connections:  {
 	C: "OO",2411862018464,2411862016464
 	
 	;Model::Box_17_Pool_Furniture_011_Patio_table_17_Pool_Furniture_011_f8d3fa, Model::Bardini_Dummy_LOC
-	C: "OO",2423201103776,2411862016464
+	C: "OO",2423201101776,2411862016464
 	
 	;Model::Box_B1010___Columnas_Rectangulares_Concreto_B1010___0_40x0__ff43a4, Model::Bardini_Dummy_LOC
-	C: "OO",2423201101776,2411862016464
+	C: "OO",2423201103776,2411862016464
 	
 	;Model::Box_B1010___Columnas_Rectangulares_Concreto_B1010___0_40x0__ff43a42, Model::Bardini_Dummy_LOC
 	C: "OO",2420781250720,2411862016464
@@ -631,139 +631,139 @@ Connections:  {
 	C: "OO",2416163401360,2411862016464
 	
 	;Model::Box_B1010___Columnas_Rectangulares_Concreto_B1010___0_40x0__ff43a42__2_, Model::Bardini_Dummy_LOC
-	C: "OO",2433273924880,2411862016464
+	C: "OO",2433285120096,2411862016464
 	
 	;Model::Box_Basic_Roof_PREFINISHED_METAL_SANDWICH_PANEL_ROOF___53mm_8154522, Model::Bardini_Dummy_LOC
-	C: "OO",2433273918880,2411862016464
+	C: "OO",2433285124096,2411862016464
 	
 	;Model::Box_Basic_Wall_M_PA__BLANCO_ALMENDRA__5549101_, Model::Bardini_Dummy_LOC
-	C: "OO",2433273920880,2411862016464
+	C: "OO",2433285132096,2411862016464
 	
 	;Model::Box_Basic_Wall_M_PA__BLANCO_ALMENDRA__5581981_, Model::Bardini_Dummy_LOC
-	C: "OO",2433273922880,2411862016464
+	C: "OO",2433285134096,2411862016464
 	
 	;Model::Box_Basic_Wall_M_PA__CHANTILLI_TX__5538511_, Model::Bardini_Dummy_LOC
-	C: "OO",2433273926880,2411862016464
+	C: "OO",2433285122096,2411862016464
 	
 	;Model::Box_Basic_Wall_M1___0_15_m_Concreto__4992067_, Model::Bardini_Dummy_LOC
-	C: "OO",2433273928880,2411862016464
+	C: "OO",2433285126096,2411862016464
 	
 	;Model::Box_Basic_Wall_M1___0_15_m_Concreto__4992067__001, Model::Bardini_Dummy_LOC
-	C: "OO",2433273930880,2411862016464
+	C: "OO",2433285128096,2411862016464
 	
 	;Model::Box_Basic_Wall_M1___0_15_m_Concreto__4992067__002, Model::Bardini_Dummy_LOC
-	C: "OO",2433273916880,2411862016464
+	C: "OO",2433285142096,2411862016464
 	
 	;Model::Box_Basic_Wall_M1___0_15_m_Concreto__4992067__003, Model::Bardini_Dummy_LOC
-	C: "OO",2433273940880,2411862016464
+	C: "OO",2433285140096,2411862016464
 	
 	;Model::Box_Basic_Wall_M1___0_15_m_Concreto__4992067__004, Model::Bardini_Dummy_LOC
-	C: "OO",2433273946880,2411862016464
+	C: "OO",2433285136096,2411862016464
 	
 	;Model::Box_Basic_Wall_M1___0_15_m_Concreto__4992067__005, Model::Bardini_Dummy_LOC
-	C: "OO",2433273936880,2411862016464
+	C: "OO",2433285144096,2411862016464
 	
 	;Material::DefaultHDMaterial, Model::Box_1
-	C: "OO",2431992090528,2411862014464
+	C: "OO",2433284979952,2411862014464
 	
 	;Geometry::Scene, Model::Box_1
-	C: "OO",2423142755056,2411862014464
+	C: "OO",2435411678432,2411862014464
 	
 	;Material::DefaultHDMaterial, Model::Box_1_001
-	C: "OO",2431992090528,2411862018464
+	C: "OO",2433284979952,2411862018464
 	
 	;Geometry::Scene, Model::Box_1_001
-	C: "OO",2423142755056,2411862018464
+	C: "OO",2435411678432,2411862018464
 	
 	;Material::DefaultHDMaterial, Model::Box_17_Pool_Furniture_011_Patio_table_17_Pool_Furniture_011_f8d3fa
-	C: "OO",2431992090528,2423201103776
+	C: "OO",2433284979952,2423201101776
 	
 	;Geometry::Scene, Model::Box_17_Pool_Furniture_011_Patio_table_17_Pool_Furniture_011_f8d3fa
-	C: "OO",2423142755056,2423201103776
+	C: "OO",2435411678432,2423201101776
 	
 	;Material::DefaultHDMaterial, Model::Box_B1010___Columnas_Rectangulares_Concreto_B1010___0_40x0__ff43a4
-	C: "OO",2431992090528,2423201101776
+	C: "OO",2433284979952,2423201103776
 	
 	;Geometry::Scene, Model::Box_B1010___Columnas_Rectangulares_Concreto_B1010___0_40x0__ff43a4
-	C: "OO",2423142755056,2423201101776
+	C: "OO",2435411678432,2423201103776
 	
 	;Material::DefaultHDMaterial, Model::Box_B1010___Columnas_Rectangulares_Concreto_B1010___0_40x0__ff43a42
-	C: "OO",2431992090528,2420781250720
+	C: "OO",2433284979952,2420781250720
 	
 	;Geometry::Scene, Model::Box_B1010___Columnas_Rectangulares_Concreto_B1010___0_40x0__ff43a42
-	C: "OO",2423142755056,2420781250720
+	C: "OO",2435411678432,2420781250720
 	
 	;Material::DefaultHDMaterial, Model::Box_B1010___Columnas_Rectangulares_Concreto_B1010___0_40x0__ff43a42__1_
-	C: "OO",2431992090528,2416163401360
+	C: "OO",2433284979952,2416163401360
 	
 	;Geometry::Scene, Model::Box_B1010___Columnas_Rectangulares_Concreto_B1010___0_40x0__ff43a42__1_
-	C: "OO",2423142755056,2416163401360
+	C: "OO",2435411678432,2416163401360
 	
 	;Material::DefaultHDMaterial, Model::Box_B1010___Columnas_Rectangulares_Concreto_B1010___0_40x0__ff43a42__2_
-	C: "OO",2431992090528,2433273924880
+	C: "OO",2433284979952,2433285120096
 	
 	;Geometry::Scene, Model::Box_B1010___Columnas_Rectangulares_Concreto_B1010___0_40x0__ff43a42__2_
-	C: "OO",2423142755056,2433273924880
+	C: "OO",2435411678432,2433285120096
 	
 	;Material::DefaultHDMaterial, Model::Box_Basic_Roof_PREFINISHED_METAL_SANDWICH_PANEL_ROOF___53mm_8154522
-	C: "OO",2431992090528,2433273918880
+	C: "OO",2433284979952,2433285124096
 	
 	;Geometry::Scene, Model::Box_Basic_Roof_PREFINISHED_METAL_SANDWICH_PANEL_ROOF___53mm_8154522
-	C: "OO",2423142755056,2433273918880
+	C: "OO",2435411678432,2433285124096
 	
 	;Material::DefaultHDMaterial, Model::Box_Basic_Wall_M_PA__BLANCO_ALMENDRA__5549101_
-	C: "OO",2431992090528,2433273920880
+	C: "OO",2433284979952,2433285132096
 	
 	;Geometry::Scene, Model::Box_Basic_Wall_M_PA__BLANCO_ALMENDRA__5549101_
-	C: "OO",2423142755056,2433273920880
+	C: "OO",2435411678432,2433285132096
 	
 	;Material::DefaultHDMaterial, Model::Box_Basic_Wall_M_PA__BLANCO_ALMENDRA__5581981_
-	C: "OO",2431992090528,2433273922880
+	C: "OO",2433284979952,2433285134096
 	
 	;Geometry::Scene, Model::Box_Basic_Wall_M_PA__BLANCO_ALMENDRA__5581981_
-	C: "OO",2423142755056,2433273922880
+	C: "OO",2435411678432,2433285134096
 	
 	;Material::DefaultHDMaterial, Model::Box_Basic_Wall_M_PA__CHANTILLI_TX__5538511_
-	C: "OO",2431992090528,2433273926880
+	C: "OO",2433284979952,2433285122096
 	
 	;Geometry::Scene, Model::Box_Basic_Wall_M_PA__CHANTILLI_TX__5538511_
-	C: "OO",2423142755056,2433273926880
+	C: "OO",2435411678432,2433285122096
 	
 	;Material::DefaultHDMaterial, Model::Box_Basic_Wall_M1___0_15_m_Concreto__4992067_
-	C: "OO",2431992090528,2433273928880
+	C: "OO",2433284979952,2433285126096
 	
 	;Geometry::Scene, Model::Box_Basic_Wall_M1___0_15_m_Concreto__4992067_
-	C: "OO",2423142755056,2433273928880
+	C: "OO",2435411678432,2433285126096
 	
 	;Material::DefaultHDMaterial, Model::Box_Basic_Wall_M1___0_15_m_Concreto__4992067__001
-	C: "OO",2431992090528,2433273930880
+	C: "OO",2433284979952,2433285128096
 	
 	;Geometry::Scene, Model::Box_Basic_Wall_M1___0_15_m_Concreto__4992067__001
-	C: "OO",2423142755056,2433273930880
+	C: "OO",2435411678432,2433285128096
 	
 	;Material::DefaultHDMaterial, Model::Box_Basic_Wall_M1___0_15_m_Concreto__4992067__002
-	C: "OO",2431992090528,2433273916880
+	C: "OO",2433284979952,2433285142096
 	
 	;Geometry::Scene, Model::Box_Basic_Wall_M1___0_15_m_Concreto__4992067__002
-	C: "OO",2423142755056,2433273916880
+	C: "OO",2435411678432,2433285142096
 	
 	;Material::DefaultHDMaterial, Model::Box_Basic_Wall_M1___0_15_m_Concreto__4992067__003
-	C: "OO",2431992090528,2433273940880
+	C: "OO",2433284979952,2433285140096
 	
 	;Geometry::Scene, Model::Box_Basic_Wall_M1___0_15_m_Concreto__4992067__003
-	C: "OO",2423142755056,2433273940880
+	C: "OO",2435411678432,2433285140096
 	
 	;Material::DefaultHDMaterial, Model::Box_Basic_Wall_M1___0_15_m_Concreto__4992067__004
-	C: "OO",2431992090528,2433273946880
+	C: "OO",2433284979952,2433285136096
 	
 	;Geometry::Scene, Model::Box_Basic_Wall_M1___0_15_m_Concreto__4992067__004
-	C: "OO",2423142755056,2433273946880
+	C: "OO",2435411678432,2433285136096
 	
 	;Material::DefaultHDMaterial, Model::Box_Basic_Wall_M1___0_15_m_Concreto__4992067__005
-	C: "OO",2431992090528,2433273936880
+	C: "OO",2433284979952,2433285144096
 	
 	;Geometry::Scene, Model::Box_Basic_Wall_M1___0_15_m_Concreto__4992067__005
-	C: "OO",2423142755056,2433273936880
+	C: "OO",2435411678432,2433285144096
 }
 ;Takes section
 ;----------------------------------------------------
